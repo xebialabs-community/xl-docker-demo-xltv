@@ -5,7 +5,7 @@ Docker image that has XLTV installed.
 
 # Supported tags #
 
-* `latest`, `v1.4.4`
+* `latest`, `v1.4.4.1`
 
 # Starting #
 
